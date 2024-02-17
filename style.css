@@ -1,3 +1,7 @@
+body.changed-background {
+  background: url('as.png');
+  background-size: 100;
+}
 body {
   font-family: "Helvetica";
   background-color: #f5f5f5;
